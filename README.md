@@ -1,7 +1,7 @@
 # Instructions
 the purpose for this project is make beat from scratch by using raylib libraries for python.
 for that reason you need to install raylib:
-pip install raylib-py (or go to : [title](https://pypi.org/project/raylib/)) on your python project environment.
+pip install raylib-py (or go to : (https://pypi.org/project/raylib/) ) on your python project environment.
 I also had to install raylibpy to access graphics and audio features of this library : pip install raylib-py.
 Inside my project directory i added a folder named resources where i loaded my wav files (audio sounds : free download [title] ( https://hiphopmakers.com/40-free-music-producer-free-drum-kits#Free-Essential-Drum-Kit))
 # Steps of the python scripts
